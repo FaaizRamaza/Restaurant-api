@@ -1,0 +1,124 @@
+{
+    "restaurant": [
+      {
+        "id": 1,
+        "name": "La Terrazza",
+        "category": "Fancy",
+        "image": "https://elitetraveler.com/wp-content/uploads/sites/8/2017/10/Hotel-Eden-La-Terrazza-scaled-e1600071873644-1536x990.jpg",
+        "rating": 5,
+        "price": 1200,
+        "isOpen": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 2,
+        "name": "La Pergola",
+        "category": "Fancy",
+        "image": "https://elitetraveler.com/wp-content/uploads/sites/8/2018/02/la-pergola-726x475.jpg",
+        "rating": 5,
+        "price": 1400,
+        "isOpen": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 3,
+        "name": "Shuko",
+        "category": "Fancy",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/shuko-6940-1578948353.jpg?crop=0.668xw:1.00xh;0.306xw,0&resize=980:*",
+        "rating": 5,
+        "price": 1149,
+        "isOpen": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 4,
+        "name": "Manhatta",
+        "category": "Fancy",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/interiors-emily-andrews-3-1658416499.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "rating": 5,
+        "price": 1099,
+        "isOpen": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 5,
+        "name": "Copenhagen",
+        "category": "Casual",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/91/6a/dining-area.jpg",
+        "rating": 3,
+        "price": 419,
+        "isOpen": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 6,
+        "name": "Zaubee",
+        "category": "Casual",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOl3iALCn1IWbz49kwbHv4kRdARda_vOtOplyXV=w408-h271-k-no",
+        "rating": 5,
+        "price": 315,
+        "isOpen": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 7,
+        "name": "JoySoy",
+        "category": "Casual",
+        "image": "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content8537.jpg",
+        "rating": 5,
+        "price": 255,
+        "isOpen": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 8,
+        "name": "Banglore",
+        "category": "Casual",
+        "image": "https://beveragesectorfood.files.wordpress.com/2019/08/daddy.jpg?w=1568",
+        "rating": 4,
+        "price": 155,
+        "isOpen": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 9,
+        "name": "Behance",
+        "category": "Classic",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f7f2989307417.560cc18714e98.jpg",
+        "rating": 5,
+        "price": 800,
+        "isOpen": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 10,
+        "name": "The Guardian",
+        "category": "Classic",
+        "image": "https://i.guim.co.uk/img/media/49aee5ae155a46f599d746e059edf67cb55ed7a0/0_121_5123_3075/master/5123..jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3977067ba0c102028aaeaf8d59778388",
+        "rating": 4,
+        "price": 900,
+        "isOpen": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 11,
+        "name": "The Red Classic",
+        "category": "Classic",
+        "image": "https://img1.10bestmedia.com/Images/Photos/318958/p-10bestSaobento_55_660x440.jpg",
+        "rating": 4,
+        "price": 850,
+        "isOpen": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      },
+      {
+        "id": 12,
+        "name": "Royal Employee",
+        "category": "Classic",
+        "image": "https://assets3.thrillist.com/v1/image/3080592/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70",
+        "rating": 4,
+        "price": 750,
+        "isOpen": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+      }
+    ]
+  }
